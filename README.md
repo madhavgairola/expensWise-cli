@@ -2,7 +2,7 @@
 
 A powerful, command-line interface for the **Expenswise 2.0** application. Record expenses, manage budgets, check your dashboard, and interact with the Expenswise AI assistant right from your terminal!
 
-## Features 🚀
+## Features
 
 - **AI-Powered Expense Entry**: Talk to the CLI naturally! Built on top of the Expenswise conversational AI `/chat` endpoint.
 - **Real-Time Dashboards**: Instantly fetch your dashboard stats (Total Expenses, Total Income, Balance, by-Category).
